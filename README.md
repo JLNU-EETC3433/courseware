@@ -12,5 +12,5 @@ Homework submission – due Friday 11pm
 Lesson 1: https://classroom.github.com/a/d7f9rWw_
 Lesson 2: https://classroom.github.com/a/cuu4A9dQ
 Lesson 3: https://classroom.github.com/a/puh2yRDJ
-Lesson 6: https://classroom.github.com/a/a7w6QKNN (due today!)
+Lesson 6: https://classroom.github.com/a/a7w6QKNN 
 Lesson 7: https://classroom.github.com/a/J21YRYuh
