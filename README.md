@@ -3,10 +3,13 @@
 For the students:
 
 Gain access to the Miro Board: Miro Invitation
-https://miro.com/welcome/cHlrVFNWaWlkVzRmaEU4VlR0OUpWUWQ2MlcrVnQ5YUZBWU1OMlMrWHNwUm42MkZlYnFxMjlIVFoyYWpYbWVkM2xUVU4xMEtGbjk4QmNXeGY2eWNXQ1Z5VjY2U1dIZUNrNTRaR0ZGcHJFeldnMFpHRXZYclg4ME1ybnBNZnN4aVEhZQ==?share_link_id=145640454909
+- https://miro.com/welcome/cHlrVFNWaWlkVzRmaEU4VlR0OUpWUWQ2MlcrVnQ5YUZBWU1OMlMrWHNwUm42MkZlYnFxMjlIVFoyYWpYbWVkM2xUVU4xMEtGbjk4QmNXeGY2eWNXQ1Z5VjY2U1dIZUNrNTRaR0ZGcHJFeldnMFpHRXZYclg4ME1ybnBNZnN4aVEhZQ==?share_link_id=145640454909
 
 Working Miroboard
-https://miro.com/app/board/uXjVLNTuDhY=/
+- https://miro.com/app/board/uXjVLNTuDhY=/
+
+Mid-term
+- Team Name: https://classroom.github.com/a/26nP99Vb
 
 Homework submission – due Friday 11pm 
 - Lesson 1 Self-intro and control system: https://classroom.github.com/a/d7f9rWw_
@@ -15,3 +18,6 @@ Homework submission – due Friday 11pm
 - Lesson 6 hand-written technical proposal: https://classroom.github.com/a/a7w6QKNN 
 - Lesson 7 Reflection on Technical Writing: https://classroom.github.com/a/J21YRYuh
 - Lesson 8 PID: https://classroom.github.com/a/yX5kb2u6
+
+Final Exam
+- Openbook & notes
