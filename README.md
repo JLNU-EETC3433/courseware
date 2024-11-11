@@ -11,6 +11,9 @@ Working Miroboard
 Mid-term
 - Team Name: https://classroom.github.com/a/26nP99Vb
 
+- Comparision resources: https://www.elephantrobotics.com/en/
+- 
+
 Homework submission – due Friday 11pm 
 - Lesson 1 Self-intro and control system: https://classroom.github.com/a/d7f9rWw_
 - Lesson 2 AC & DC : https://classroom.github.com/a/cuu4A9dQ
@@ -21,3 +24,8 @@ Homework submission – due Friday 11pm
 
 Final Exam
 - Openbook & notes
+- 
+
+References:
+- https://www.pdfsupply.com/blog/index.php/2021/12/06/raspberry-pi-vs-plc/
+
