@@ -10,6 +10,7 @@ Working Miroboard
 
 Mid-term
 - Team Name: https://classroom.github.com/a/26nP99Vb
+- Day 1: https://classroom.github.com/a/SgRqtmoC
 
 - Comparision resources: https://www.elephantrobotics.com/en/
 - 
